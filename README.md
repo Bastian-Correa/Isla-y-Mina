@@ -47,3 +47,4 @@ Todos están en `Assets/Scripts`:
 - `GeneradorMina.cs`: BSP, pasillos y BFS.
 - `CamaraOrbital.cs`: cámara.
 - `SelectorContexto.cs`: botones para cambiar entre isla y mina.
+
